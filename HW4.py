@@ -1,4 +1,7 @@
 my_string = input('Назовите своё имя: ')
+len(my_string)
+print(my_string)
+
 print('Добро пожаловать, ', my_string.upper())
 
 my_string = input('Назовите слово на букву А в верхнем регистре: ')
